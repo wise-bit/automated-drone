@@ -15,7 +15,7 @@ import Utils.Utils;
 
 public class RecognizeFace {
 
-    public String classifier = "res/haarcascade_frontalface_alt.xml";
+    public String classifier = "data/haarcascade_frontalface_alt.xml";
 
     // SETTINGS
 
