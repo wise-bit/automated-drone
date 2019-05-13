@@ -5,7 +5,7 @@ public class Main {
 
         // res
 
-        RecognizeFace r = new RecognizeFace("res");
+        // RecognizeFace r = new RecognizeFace("res");
 
     }
 
